@@ -9,50 +9,50 @@ color:#000000;
 }
 .line2 {
 background:#f3f5d6; 
-color:#000000;
+color:#111111;
 }
 .line3 {
 background:#f3f4c4;
-color:#000000; }
+color:#222222; }
 .line4 {
 background:#faf8b0;
-color:#000000; }
+color:#333333; }
 .line5 {
 background:#faf7b9;
-color:#000000; }
+color:#444444; }
 .line6 {
 background:#f4f3b0;
-color:#000000; }
+color:#555555; }
 .line7 {
 background:#f3f196;
-color:#000000; }
+color:#666666; }
 .line8 {
 background:#f9f573;
-color:#000000; }
+color:#777777; }
 .line9 {
 background:#faf585;
-color: #000000; }
+color: #888888 }
 .line10 {
 background:#f2eca3;
-color:#000000; }
+color:#999999; }
 .line11 {
 background:#ebd582;
-color:#000000; }
+color:#AAAAAA; }
 .line12 {
 background:#dcc55c;
-color:#000000; }
+color:#BBBBBB; }
 .line13 {
 background:#d8b458;
-color: #000000; }
+color: #CCCCCC }
 .line14 {
 background:#cdb67b;
-color:#000000; }
+color:#DDDDDD; }
 .line15 {
 background:#c4b283;
-color:#000000; }
+color:#EEEEEE; }
 .line16 {
 background:#9a845b;
-color:#000000; }
+color:#FFFFFF; }
 body {
     font-family: century-gothic, sans-serif;
     margin: 0;
